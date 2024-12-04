@@ -434,34 +434,42 @@ msgctxt "#32349"
 msgid "Visibility"
 msgstr ""
 
+#, read-only
 msgctxt "#32350"
 msgid "°C"
 msgstr "°C"
 
+#, read-only
 msgctxt "#32351"
 msgid "°F"
 msgstr "°F"
 
+#, read-only
 msgctxt "#32352"
 msgid "K"
 msgstr "K"
 
+#, read-only
 msgctxt "#32353"
 msgid "°Ré"
 msgstr "°Ré"
 
+#, read-only
 msgctxt "#32354"
 msgid "°Ra"
 msgstr "°Ra"
 
+#, read-only
 msgctxt "#32355"
 msgid "°Rø"
 msgstr "°Rø"
 
+#, read-only
 msgctxt "#32356"
 msgid "°D"
 msgstr "°D"
 
+#, read-only
 msgctxt "#32357"
 msgid "°N"
 msgstr "°N"
