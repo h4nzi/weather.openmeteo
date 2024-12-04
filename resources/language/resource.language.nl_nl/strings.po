@@ -275,10 +275,6 @@ msgctxt "#32304"
 msgid "Decimal separator"
 msgstr "Scheidingsteken"
 
-msgctxt "#32305"
-msgid "Solar radiation"
-msgstr "Zonlicht"
-
 msgctxt "#32306"
 msgid "Particles"
 msgstr "Deeltjes"
@@ -290,10 +286,6 @@ msgstr "Interval"
 msgctxt "#32308"
 msgid "Verbose"
 msgstr "Uitgebreid"
-
-msgctxt "#32309"
-msgid "Pollen"
-msgstr "Pollen"
 
 msgctxt "#32310"
 msgid "Location 1"

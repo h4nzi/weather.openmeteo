@@ -275,10 +275,6 @@ msgctxt "#32304"
 msgid "Decimal separator"
 msgstr "Séparateur décimal"
 
-msgctxt "#32305"
-msgid "Solar radiation"
-msgstr "Rayonnement solaire"
-
 msgctxt "#32306"
 msgid "Particles"
 msgstr "Particules"
@@ -290,10 +286,6 @@ msgstr "intervalle"
 msgctxt "#32308"
 msgid "Verbose"
 msgstr "Verbeux"
-
-msgctxt "#32309"
-msgid "Pollen"
-msgstr "Pollen"
 
 msgctxt "#32310"
 msgid "Location 1"

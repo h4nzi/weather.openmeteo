@@ -278,10 +278,6 @@ msgctxt "#32304"
 msgid "Decimal separator"
 msgstr "Десятковий роздільник"
 
-msgctxt "#32305"
-msgid "Solar radiation"
-msgstr "Сонячне випромінювання"
-
 msgctxt "#32306"
 msgid "Particles"
 msgstr "Частинки"
@@ -293,10 +289,6 @@ msgstr "Інтервал"
 msgctxt "#32308"
 msgid "Verbose"
 msgstr "Багатослівний"
-
-msgctxt "#32309"
-msgid "Pollen"
-msgstr "Пилок"
 
 msgctxt "#32310"
 msgid "Location 1"
