@@ -242,14 +242,17 @@ msgctxt "#32291"
 msgid "Default"
 msgstr ""
 
+#, read-only
 msgctxt "#32292"
 msgid "Weathermap"
 msgstr "Weathermap"
 
+#, read-only
 msgctxt "#32293"
 msgid "Met.no"
 msgstr "Met.no"
 
+#, read-only
 msgctxt "#32294"
 msgid "WMO"
 msgstr "WMO"
@@ -562,10 +565,12 @@ msgctxt "#32412"
 msgid "mi"
 msgstr "mi"
 
+#, read-only
 msgctxt "#32430"
 msgid "."
 msgstr "."
 
+#, read-only
 msgctxt "#32431"
 msgid ","
 msgstr ","
