@@ -241,19 +241,15 @@ msgstr "Par défaut"
 
 msgctxt "#32292"
 msgid "Weathermap"
-msgstr "Carte météo"
+msgstr "Weathermap"
 
 msgctxt "#32293"
 msgid "Met.no"
-msgstr ""
+msgstr "Met.no"
 
 msgctxt "#32294"
-msgid "reserved"
-msgstr "réservé"
-
-msgctxt "#32295"
-msgid "reserved"
-msgstr "réservé"
+msgid "WMO"
+msgstr "WMO"
 
 msgctxt "#32296"
 msgid "Background sync"
@@ -265,7 +261,7 @@ msgstr "Distance"
 
 msgctxt "#32301"
 msgid "Index"
-msgstr ""
+msgstr "Index"
 
 msgctxt "#32302"
 msgid "Percent"
@@ -346,19 +342,19 @@ msgstr "Rafale"
 
 msgctxt "#32325"
 msgid "AQI EU"
-msgstr ""
+msgstr "AQI EU"
 
 msgctxt "#32326"
 msgid "AQI US"
-msgstr ""
+msgstr "AQI US"
 
 msgctxt "#32327"
 msgid "PM25"
-msgstr ""
+msgstr "PM25"
 
 msgctxt "#32328"
 msgid "PM10"
-msgstr ""
+msgstr "PM10"
 
 msgctxt "#32329"
 msgid "UV Index"
@@ -425,7 +421,7 @@ msgid "Negative"
 msgstr "Négatif"
 
 msgctxt "#32345"
-msgid "Colors"
+msgid "Colours"
 msgstr "Couleurs"
 
 msgctxt "#32346"
@@ -446,35 +442,35 @@ msgstr "Visibilité"
 
 msgctxt "#32350"
 msgid "°C"
-msgstr ""
+msgstr "°C"
 
 msgctxt "#32351"
 msgid "°F"
-msgstr ""
+msgstr "°F"
 
 msgctxt "#32352"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "#32353"
 msgid "°Ré"
-msgstr ""
+msgstr "°Ré"
 
 msgctxt "#32354"
 msgid "°Ra"
-msgstr ""
+msgstr "°Ra"
 
 msgctxt "#32355"
 msgid "°Rø"
-msgstr ""
+msgstr "°Rø"
 
 msgctxt "#32356"
 msgid "°D"
-msgstr ""
+msgstr "°D"
 
 msgctxt "#32357"
 msgid "°N"
-msgstr ""
+msgstr "°N"
 
 
 msgctxt "#32360"
@@ -483,68 +479,68 @@ msgstr "Application"
 
 msgctxt "#32361"
 msgid "mph"
-msgstr ""
+msgstr "mph"
 
 msgctxt "#32362"
 msgid "km/h"
-msgstr ""
+msgstr "km/h"
 
 msgctxt "#32363"
 msgid "m/min"
-msgstr ""
+msgstr "m/min"
 
 msgctxt "#32364"
 msgid "m/s"
-msgstr ""
+msgstr "m/s"
 
 msgctxt "#32365"
 msgid "ft/h"
-msgstr ""
+msgstr "ft/h"
 
 msgctxt "#32366"
 msgid "ft/min"
-msgstr ""
+msgstr "ft/min"
 
 msgctxt "#32367"
 msgid "ft/s"
-msgstr ""
+msgstr "ft/s"
 
 msgctxt "#32368"
 msgid "kts"
-msgstr ""
+msgstr "kts"
 
 msgctxt "#32369"
-msgid "beaufort"
-msgstr ""
+msgid "Beaufort"
+msgstr "Beaufort"
 
 msgctxt "#32370"
 msgid "inch/s"
-msgstr ""
+msgstr "inch/s"
 
 msgctxt "#32371"
 msgid "yard/s"
-msgstr ""
+msgstr "yard/s"
 
 msgctxt "#32372"
 msgid "Furlong/Fortnight"
-msgstr ""
+msgstr "Furlong/Fortnight"
 
 
 msgctxt "#32380"
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 msgctxt "#32381"
 msgid "inches"
-msgstr ""
+msgstr "inches"
 
 msgctxt "#32390"
 msgid "12h"
-msgstr ""
+msgstr "12h"
 
 msgctxt "#32391"
 msgid "24h"
-msgstr ""
+msgstr "24h"
 
 
 msgctxt "#32400"
@@ -558,24 +554,24 @@ msgstr "Satellite"
 
 msgctxt "#32410"
 msgid "m"
-msgstr ""
+msgstr "m"
 
 msgctxt "#32411"
 msgid "km"
-msgstr ""
+msgstr "km"
 
 msgctxt "#32412"
 msgid "mi"
-msgstr ""
+msgstr "mi"
 
 
 msgctxt "#32430"
 msgid "."
-msgstr ""
+msgstr "."
 
 msgctxt "#32431"
 msgid ","
-msgstr ""
+msgstr ","
 
 msgctxt "#32440"
 msgid "New Moon"
@@ -637,3 +633,10 @@ msgctxt "#32456"
 msgid "grains"
 msgstr "Grains"
 
+msgctxt "#32500"
+msgid "Weather forecast from Open-Meteo"
+msgstr ""
+
+msgctxt "#32501"
+msgid "Weather, maps, airquality and pollen forecast from open-meteo.com, rainviewer.com, weather.gc.ca and met.no"
+msgstr ""

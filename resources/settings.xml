@@ -79,7 +79,7 @@
 				<setting id="unitparticlesdp" type="integer" label="32289" help=""><level>0</level><default>1</default><constraints><minimum>0</minimum><step>1</step><maximum>3</maximum></constraints><control type="slider" format="integer"><popup>false</popup></control></setting>
 			</group>
 
-			<group id="7" label="32309">
+			<group id="7" label="32267">
 				<setting id="unitpollendp" type="integer" label="32289" help=""><level>0</level><default>1</default><constraints><minimum>0</minimum><step>1</step><maximum>3</maximum></constraints><control type="slider" format="integer"><popup>false</popup></control></setting>
 			</group>
 
@@ -87,7 +87,7 @@
 				<setting id="unituvindexdp" type="integer" label="32289" help=""><level>0</level><default>1</default><constraints><minimum>0</minimum><step>1</step><maximum>3</maximum></constraints><control type="slider" format="integer"><popup>false</popup></control></setting>
 			</group>
 
-			<group id="9" label="32305">
+			<group id="9" label="32348">
 				<setting id="unitradiationdp" type="integer" label="32289" help=""><level>0</level><default>1</default><constraints><minimum>0</minimum><step>1</step><maximum>3</maximum></constraints><control type="slider" format="integer"><popup>false</popup></control></setting>
 			</group>
 
