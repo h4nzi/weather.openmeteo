@@ -620,7 +620,7 @@ msgstr "Oliva"
 
 msgctxt "#32455"
 msgid "Ragweed"
-msgstr "Pelyňkovec"
+msgstr "Ambrózie"
 
 msgctxt "#32456"
 msgid "grains"
