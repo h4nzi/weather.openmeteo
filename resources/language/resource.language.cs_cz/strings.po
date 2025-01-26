@@ -1,18 +1,21 @@
+# Kodi Media Center language file
+# Addon Name: Confluence
+# Addon id: skin.confluence
+# Addon Provider: Jezz_X, Team Kodi
 msgid ""
 msgstr ""
-"Project-Id-Version: English (OpenHT)\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-04 13:09+0200\n"
-"PO-Revision-Date: 2025-01-24 14:55+0000\n"
-"Last-Translator: Tomas <top9@email.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/openht/"
-"weather-openmeteo/cs/>\n"
-"Language: cs\n"
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2024-04-12 17:30+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-confluence/cs_cz/>\n"
+"Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.10-dev\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4.3\n"
 
 msgctxt "#32200"
 msgid "Sunny"
@@ -20,11 +23,11 @@ msgstr "Slunečno"
 
 msgctxt "#32201"
 msgid "Mainly Sunny"
-msgstr "Převážně slunečno"
+msgstr "Skoro jasno"
 
 msgctxt "#32202"
 msgid "Partly Cloudy"
-msgstr "Částečně oblačno"
+msgstr "Částečně zataženo"
 
 msgctxt "#32203"
 msgid "Cloudy"
@@ -32,11 +35,11 @@ msgstr "Zataženo"
 
 msgctxt "#32204"
 msgid "Foggy"
-msgstr "Mlhavo"
+msgstr "Mlha"
 
 msgctxt "#32205"
 msgid "Rime Fog"
-msgstr "Námrazová mlha"
+msgstr "Námraza"
 
 msgctxt "#32206"
 msgid "Light Drizzle"
@@ -52,87 +55,87 @@ msgstr "Silné mrholení"
 
 msgctxt "#32209"
 msgid "Light Freezing Drizzle"
-msgstr "Slabé mrholení se sněhem"
+msgstr ""
 
 msgctxt "#32210"
 msgid "Freezing Drizzle"
-msgstr "Mrholení se sněhem"
+msgstr ""
 
 msgctxt "#32211"
 msgid "Light Rain"
-msgstr "Slabý déšť"
+msgstr ""
 
 msgctxt "#32212"
 msgid "Rain"
-msgstr "Déšť"
+msgstr ""
 
 msgctxt "#32213"
 msgid "Heavy Rain"
-msgstr "Silný déšť"
+msgstr ""
 
 msgctxt "#32214"
 msgid "Light Freezing Rain"
-msgstr "Slabý déšť se sněhem"
+msgstr ""
 
 msgctxt "#32215"
 msgid "Freezing Rain"
-msgstr "Déšť se sněhem"
+msgstr ""
 
 msgctxt "#32216"
 msgid "Light Snow"
-msgstr "Slabé sněžení"
+msgstr ""
 
 msgctxt "#32217"
 msgid "Snow"
-msgstr "Sněžení"
+msgstr ""
 
 msgctxt "#32218"
 msgid "Heavy Snow"
-msgstr "Silné sněžení"
+msgstr ""
 
 msgctxt "#32219"
 msgid "Snow Grains"
-msgstr "Ledové krupky"
+msgstr ""
 
 msgctxt "#32220"
 msgid "Light Showers"
-msgstr "Slabé přeháňky"
+msgstr ""
 
 msgctxt "#32221"
 msgid "Showers"
-msgstr "Přeháňky"
+msgstr ""
 
 msgctxt "#32222"
 msgid "Heavy Showers"
-msgstr "Silné přeháňky"
+msgstr ""
 
 msgctxt "#32223"
 msgid "Light Snow Showers"
-msgstr "Slabé sněhové přeháňky"
+msgstr ""
 
 msgctxt "#32224"
 msgid "Snow Showers"
-msgstr "Sněhové přeháňky"
+msgstr ""
 
 msgctxt "#32225"
 msgid "Thunderstorm"
-msgstr "Bouřka"
+msgstr ""
 
 msgctxt "#32226"
 msgid "Light Thunderstorms With Hail"
-msgstr "Slabé bouřky s kroupami"
+msgstr ""
 
 msgctxt "#32227"
 msgid "Thunderstorm With Hail"
-msgstr "Bouřka s kroupami"
+msgstr ""
 
 msgctxt "#32250"
 msgid "Clear"
-msgstr "Jasno"
+msgstr ""
 
 msgctxt "#32251"
 msgid "Mainly Clear"
-msgstr "Převážně jasno"
+msgstr ""
 
 msgctxt "#32255"
 msgid "Moonrise"
@@ -144,27 +147,27 @@ msgstr "Západ měsíce"
 
 msgctxt "#32257"
 msgid "Moonphase"
-msgstr "Fáze měsíce"
+msgstr "Měsíční fáze"
 
 msgctxt "#32260"
 msgid "General"
-msgstr "Obecné"
+msgstr ""
 
 msgctxt "#32261"
 msgid "Locations"
-msgstr "Místa"
+msgstr "Poloha"
 
 msgctxt "#32262"
 msgid "Limits"
-msgstr "Limity"
+msgstr "Omezení"
 
 msgctxt "#32263"
 msgid "Notifications"
-msgstr "Upozornění"
+msgstr "Oznámení"
 
 msgctxt "#32264"
 msgid "Advanced"
-msgstr "Pokročilé"
+msgstr "Rozšířené"
 
 msgctxt "#32265"
 msgid "Weather"
@@ -172,7 +175,7 @@ msgstr "Počasí"
 
 msgctxt "#32266"
 msgid "Airquality"
-msgstr "Kvalita ovzduší"
+msgstr "Kvalita vzduchu"
 
 msgctxt "#32267"
 msgid "Pollen"
@@ -180,11 +183,11 @@ msgstr "Pyl"
 
 msgctxt "#32268"
 msgid "Alerts"
-msgstr "Výstrahy"
+msgstr "Výstraha"
 
 msgctxt "#32269"
 msgid "Select option"
-msgstr "Vyberte možnost"
+msgstr ""
 
 msgctxt "#32270"
 msgid "Graphs"
@@ -208,15 +211,15 @@ msgstr "Mapy"
 
 msgctxt "#32282"
 msgid "Logging"
-msgstr "Protokolování"
+msgstr "Logování"
 
 msgctxt "#32283"
 msgid "Experimental (Restart required)"
-msgstr "Experimentální (nutný restart)"
+msgstr ""
 
 msgctxt "#32285"
 msgid "Zoom"
-msgstr "Přiblížení"
+msgstr "Zoom"
 
 msgctxt "#32286"
 msgid "Debug"
@@ -224,15 +227,15 @@ msgstr "Ladění"
 
 msgctxt "#32287"
 msgid "Duration"
-msgstr "Trvání"
+msgstr "Délka"
 
 msgctxt "#32288"
 msgid "Hours"
-msgstr "Hodiny"
+msgstr "Hodin"
 
 msgctxt "#32289"
 msgid "Decimal places"
-msgstr "Desetinná místa"
+msgstr "Počet desetinných míst"
 
 msgctxt "#32290"
 msgid "Icons"
@@ -242,20 +245,17 @@ msgctxt "#32291"
 msgid "Default"
 msgstr "Výchozí"
 
-#, read-only
 msgctxt "#32292"
 msgid "Weathermap"
-msgstr ""
+msgstr "Povětrnostní mapa"
 
-#, read-only
 msgctxt "#32293"
 msgid "Met.no"
-msgstr ""
+msgstr "Met.no"
 
-#, read-only
 msgctxt "#32294"
 msgid "WMO"
-msgstr ""
+msgstr "WMO"
 
 msgctxt "#32296"
 msgid "Background sync"
@@ -263,15 +263,15 @@ msgstr "Synchronizace na pozadí"
 
 msgctxt "#32300"
 msgid "Distance"
-msgstr "Vzdálenost"
+msgstr "Dohlednost"
 
 msgctxt "#32301"
 msgid "Index"
-msgstr "Index"
+msgstr ""
 
 msgctxt "#32302"
 msgid "Percent"
-msgstr "Procenta"
+msgstr "Procent"
 
 msgctxt "#32303"
 msgid "Unit"
@@ -279,43 +279,43 @@ msgstr "Jednotka"
 
 msgctxt "#32304"
 msgid "Decimal separator"
-msgstr "Oddělovač desetinných míst"
+msgstr "Desetinná čárka/tečka"
 
 msgctxt "#32306"
 msgid "Particles"
-msgstr "Částice"
+msgstr "Prachové částice"
 
 msgctxt "#32307"
 msgid "Interval"
-msgstr "Interval"
+msgstr ""
 
 msgctxt "#32308"
 msgid "Verbose"
-msgstr "Podrobný"
+msgstr "Podrobné ladění"
 
 msgctxt "#32310"
 msgid "Location 1"
-msgstr "Místo 1"
+msgstr "Poloha 1"
 
 msgctxt "#32311"
 msgid "Location 2"
-msgstr "Místo 2"
+msgstr "Poloha 2"
 
 msgctxt "#32312"
 msgid "Location 3"
-msgstr "Místo 3"
+msgstr "Poloha 3"
 
 msgctxt "#32313"
 msgid "Location 4"
-msgstr "Místo 4"
+msgstr "Poloha 4"
 
 msgctxt "#32314"
 msgid "Location 5"
-msgstr "Místo 5"
+msgstr "Poloha 5"
 
 msgctxt "#32316"
 msgid "Use location timezone"
-msgstr "Použít časové pásmo místa"
+msgstr "Použít místní časovou zónu"
 
 msgctxt "#32320"
 msgid "Temperature"
@@ -327,7 +327,7 @@ msgstr "Srážky"
 
 msgctxt "#32322"
 msgid "Condition"
-msgstr "Podmínky"
+msgstr "Povětrnostní podmínky"
 
 msgctxt "#32323"
 msgid "Wind"
@@ -335,7 +335,7 @@ msgstr "Vítr"
 
 msgctxt "#32324"
 msgid "Gust"
-msgstr "Nárazy"
+msgstr "Nárazy větru"
 
 msgctxt "#32325"
 msgid "AQI EU"
@@ -355,11 +355,11 @@ msgstr "PM10"
 
 msgctxt "#32329"
 msgid "UV Index"
-msgstr "UV Index"
+msgstr ""
 
 msgctxt "#32330"
 msgid "Nitrogen Dioxide"
-msgstr "Oxid dusíku"
+msgstr "Oxid dusičitý"
 
 msgctxt "#32331"
 msgid "Sulphur Dioxide"
@@ -391,7 +391,7 @@ msgstr "Oxid uhelnatý"
 
 msgctxt "#32338"
 msgid "Ozone"
-msgstr "Ozon"
+msgstr "Ozón"
 
 msgctxt "#32339"
 msgid "Dust"
@@ -399,11 +399,11 @@ msgstr "Prach"
 
 msgctxt "#32340"
 msgid "Notice"
-msgstr "Upozornění"
+msgstr "Poznámka"
 
 msgctxt "#32341"
 msgid "Caution"
-msgstr "Opatrnost"
+msgstr "Upozornění"
 
 msgctxt "#32342"
 msgid "Danger"
@@ -415,11 +415,11 @@ msgstr "Normální"
 
 msgctxt "#32344"
 msgid "Negative"
-msgstr "Negativní"
+msgstr "Záporná"
 
 msgctxt "#32345"
 msgid "Colours"
-msgstr "Barvy"
+msgstr ""
 
 msgctxt "#32346"
 msgid "Humidity"
@@ -431,55 +431,47 @@ msgstr "Tlak"
 
 msgctxt "#32348"
 msgid "Solar radiation"
-msgstr "Sluneční záření"
+msgstr "UV záření"
 
 msgctxt "#32349"
 msgid "Visibility"
 msgstr "Viditelnost"
 
-#, read-only
 msgctxt "#32350"
 msgid "°C"
-msgstr ""
+msgstr "°C"
 
-#, read-only
 msgctxt "#32351"
 msgid "°F"
-msgstr ""
+msgstr "°F"
 
-#, read-only
 msgctxt "#32352"
 msgid "K"
-msgstr ""
+msgstr "K"
 
-#, read-only
 msgctxt "#32353"
 msgid "°Ré"
-msgstr ""
+msgstr "°Ré"
 
-#, read-only
 msgctxt "#32354"
 msgid "°Ra"
-msgstr ""
+msgstr "°Ra"
 
-#, read-only
 msgctxt "#32355"
 msgid "°Rø"
-msgstr ""
+msgstr "°Rø"
 
-#, read-only
 msgctxt "#32356"
 msgid "°D"
-msgstr ""
+msgstr "°D"
 
-#, read-only
 msgctxt "#32357"
 msgid "°N"
-msgstr ""
+msgstr "°N"
 
 msgctxt "#32360"
 msgid "Application"
-msgstr "Aplikace"
+msgstr ""
 
 msgctxt "#32361"
 msgid "mph"
@@ -547,7 +539,7 @@ msgstr "24h"
 
 msgctxt "#32400"
 msgid "Radar"
-msgstr "Radar"
+msgstr ""
 
 msgctxt "#32401"
 msgid "Satellite"
@@ -565,19 +557,17 @@ msgctxt "#32412"
 msgid "mi"
 msgstr "mi"
 
-#, read-only
 msgctxt "#32430"
 msgid "."
-msgstr ""
+msgstr "."
 
-#, read-only
 msgctxt "#32431"
 msgid ","
-msgstr ""
+msgstr ","
 
 msgctxt "#32440"
 msgid "New Moon"
-msgstr "Nový měsíc"
+msgstr "Nov"
 
 msgctxt "#32441"
 msgid "Waxing Crescent"
@@ -585,11 +575,11 @@ msgstr "Dorůstající srpek"
 
 msgctxt "#32442"
 msgid "First Quarter"
-msgstr "První čtvrtina"
+msgstr "První čtvrť"
 
 msgctxt "#32443"
 msgid "Waxing Gibbous"
-msgstr "Dorůstající měsíc"
+msgstr "Dorůstá"
 
 msgctxt "#32444"
 msgid "Full Moon"
@@ -597,15 +587,15 @@ msgstr "Úplněk"
 
 msgctxt "#32445"
 msgid "Waning Gibbous"
-msgstr "Couvající měsíc"
+msgstr "Ubývá"
 
 msgctxt "#32446"
 msgid "Last Quarter"
-msgstr "Poslední čtvrtina"
+msgstr "Poslední čtvrť"
 
 msgctxt "#32447"
 msgid "Waning Crescent"
-msgstr "Couvající srpek"
+msgstr "Ubývající srpek"
 
 msgctxt "#32450"
 msgid "Alder"
@@ -623,24 +613,24 @@ msgctxt "#32453"
 msgid "Mugwort"
 msgstr "Pelyněk"
 
+
 msgctxt "#32454"
 msgid "Olive"
-msgstr "Olivovník"
+msgstr "Oliva"
 
 msgctxt "#32455"
 msgid "Ragweed"
-msgstr "Ambrózia"
+msgstr "Pelyňkovec"
 
 msgctxt "#32456"
 msgid "grains"
-msgstr "Obilniny"
+msgstr "zrn"
 
 msgctxt "#32500"
 msgid "Weather forecast from Open-Meteo"
-msgstr "Predpoveď počasia z Open-Meteo"
+msgstr "Předpověď počasí z Open-Meteo"
 
 msgctxt "#32501"
 msgid "Weather, maps, airquality and pollen forecast from open-meteo.com, rainviewer.com, weather.gc.ca and met.no"
-msgstr ""
-"Počasie, mapy, kvalita vzduchu a pyľové údaje z open-meteo.com, "
-"rainviewer.com, weather.gc.ca a met.no"
+msgstr "Počasí, mapy, kvalita vzduchu a předpověď pylů převzaty z open-meteo.com, rainviewer.com, weather.gc.ca and met.no"
+
